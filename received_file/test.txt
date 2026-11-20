@@ -1,0 +1,7 @@
+Hello! Welcome to my Reliable File Transfer System.
+
+This is a test file created to check whether the Java application can successfully transfer files from a sender to a receiver.
+
+The project uses TCP socket programming, SHA-256 checksum verification, and acknowledgment mechanisms to ensure reliable file transmission.
+
+Project developed by: Pooja Gosavi
